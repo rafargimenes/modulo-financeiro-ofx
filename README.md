@@ -14,3 +14,7 @@ Projeto desenvolvido em Python para leitura, categorização automática e armaz
 - Classificação automática por categoria de gasto/receita
 - Cálculo e exibição do resumo financeiro (Entradas, Saídas e Saldo)
 - Gravação dos dados no PostgreSQL com prevenção de duplicidade (`ON CONFLICT DO NOTHING`)
+
+- ## 👥 Integrantes do Projeto
+**Rafael Gimenes** - GitHub: [@rafargimenes](https://github.com/rafargimenes)
+**Guilherme Silva** - GitHub: [@Guisinhomon](https://github.com/Guisinhomon)
